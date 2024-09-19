@@ -1,17 +1,12 @@
 <h2 align="left">Hi 👋! My name is Harsh and I'm a Data Science Student at IIT Patna</h2>
 
-
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harsh18999&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=harsh18999&locale=en&mode=daily&theme=vue&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh18999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh18999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false" height="152" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media.istockphoto.com/id/1327135098/vector/machine-learning-isometric-concept.jpg?s=170667a&w=0&k=20&c=VigK9yrdrt_fqbO0XwumugVaRFIknuwPX3S4Rg7vBFg="  />
 
 ###
 
@@ -47,8 +42,15 @@
 
 ###
 
+<img align="right" height="150" src="https://media.istockphoto.com/id/1327135098/vector/machine-learning-isometric-concept.jpg?s=170667a&w=0&k=20&c=VigK9yrdrt_fqbO0XwumugVaRFIknuwPX3S4Rg7vBFg="  />
+
+###
+
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/harsh18999/harsh18999/output/snake.svg" alt="Snake animation" />
+
+###
 <img src="https://raw.githubusercontent.com/harsh18999/harsh18999/output/snake.svg" alt="Snake animation" />
 
 ###
