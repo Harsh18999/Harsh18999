@@ -50,7 +50,3 @@
 
 <img src="https://raw.githubusercontent.com/harsh18999/harsh18999/output/snake.svg" alt="Snake animation" />
 
-###
-<img src="https://raw.githubusercontent.com/harsh18999/harsh18999/output/snake.svg" alt="Snake animation" />
-
-###
