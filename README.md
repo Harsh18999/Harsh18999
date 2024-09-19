@@ -42,11 +42,3 @@
 
 ###
 
-<img align="right" height="150" src="https://media.istockphoto.com/id/1327135098/vector/machine-learning-isometric-concept.jpg?s=170667a&w=0&k=20&c=VigK9yrdrt_fqbO0XwumugVaRFIknuwPX3S4Rg7vBFg="  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/harsh18999/harsh18999/output/snake.svg" alt="Snake animation" />
-
