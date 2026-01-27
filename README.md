@@ -29,7 +29,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/its_harxh_/" target="_blank">
+  <a href="https://www.instagram.com/__harxh___/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="harsh_2312res930@iitp.ac.in" target="_blank">
